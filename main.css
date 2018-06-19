@@ -2,11 +2,22 @@ body {
   /*background-color: #f58220; */
 }
 
-#active-nav {
+#active-nav-link {
   color: #f58220;
 }
 
-#resize {
+#brand-logo {
   width: 70%;
   height: auto;
+}
+
+#navbarNavAltMarkup
+{
+    text-align: center;
+    padding-top: 3%;
+    margin: 0;
+    vertical-align: bottom;
+    font-size: 1.1rem;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 600;
 }
