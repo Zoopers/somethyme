@@ -1,6 +1,6 @@
-a, a:hover {
-  color: #f58220;
-  text-decoration: none;
+#email-link {
+  color: #f58220 !important;
+  text-decoration: none !important;
 }
 
 .body-content .card {

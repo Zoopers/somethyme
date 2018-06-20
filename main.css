@@ -3,10 +3,6 @@ body {
   background-color: #666;
 }
 
-#active-nav-link {
-  color: #f58220;
-}
-
 .thyme-button {
   height: 50%;
   margin: auto;
@@ -57,4 +53,14 @@ body {
     font-size: 1.1rem;
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 600;
+}
+
+#active-nav-link {
+  color: #f58220 !important;
+  text-decoration: none !important;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  color: #f58220 !important;
 }
