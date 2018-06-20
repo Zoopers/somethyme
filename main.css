@@ -1,9 +1,24 @@
 body {
-  background-color: #595959;
+  color: #666;
+  background-color: #666;
 }
 
 #active-nav-link {
   color: #f58220;
+}
+
+.thyme-button {
+  height: 50%;
+  margin: auto;
+  background-color: #a6ce39;
+  border-color: #a6ce39;
+  color: #fff;
+}
+
+.thyme-button:hover, .thyme-button:focus, .thyme-button:active, .thyme-button.active, .open>.dropdown-toggle.thyme-button {
+    color: #fff;
+    background-color: #f58220;
+    border-color: #f58220; /*set the color you want here*/
 }
 
 #page-title {
@@ -19,8 +34,13 @@ body {
   padding-top: 20px;
 }
 
-#body-content{
+.body-content{
   background-color: #fff;
+}
+.body-content h4 {
+  padding-top: 1rem;
+  font-weight: 600;
+  font-size: 1.5rem;
 }
 
 #brand-logo {

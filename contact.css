@@ -1,0 +1,14 @@
+a, a:hover {
+  color: #f58220;
+  text-decoration: none;
+}
+
+.body-content .card {
+  border: none;
+}
+
+.card-header {
+  background-color: #a6ce39;
+  color: #fff;
+  border-color: #a6ce39;
+}
