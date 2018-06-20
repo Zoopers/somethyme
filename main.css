@@ -1,5 +1,5 @@
 body {
-  /*background-color: #f58220;*/
+  background-color: #595959;
 }
 
 #active-nav-link {
@@ -7,7 +7,6 @@ body {
 }
 
 #page-title {
-  background-image: url("https://raw.githubusercontent.com/Zoopers/somethyme/master/assets/thyme.jpg");
   background-position: center;
   background-size: cover;
 }
