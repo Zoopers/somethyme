@@ -20,6 +20,12 @@ body {
 #page-title {
   background-position: center;
   background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #page-title h1 {
@@ -27,7 +33,9 @@ body {
   text-align: center;
   font-size: 3em !important;
   font-weight: bold !important;
-  padding-top: 20px;
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .body-content{
