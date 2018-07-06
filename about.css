@@ -7,3 +7,8 @@
   text-align: center;
   font-size: 1.5rem;
 }
+
+#source-bold {
+  font-weight: bold;
+  color: #f58220;
+}
