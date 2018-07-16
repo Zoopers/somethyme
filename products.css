@@ -1,4 +1,40 @@
 .card {
   margin-top: 1rem;
   text-align: center;
+  border: none;
+  border-radius: 50%;
+}
+
+.card-img-top {
+  border-radius: 20px;
+}
+
+.order-form-block {
+  border-radius: 5%;
+  border: 5px;
+  border-style: solid;
+  border-color: #a6ce39;
+  text-align: center;
+  background-color: #a6ce39;
+  color: #fff;
+}
+
+.form-block {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 49%;
+  font-weight: bold;
+}
+
+.download-link {
+  color: #f58220 !important;
+  text-decoration: none !important;
+}
+
+.download-link-icon{
+  color: #f58220;
 }

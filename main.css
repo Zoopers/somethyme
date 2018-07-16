@@ -3,6 +3,16 @@ body {
   /*background-color: #666;*/
 }
 
+.body-content{
+  background-color: #fff;
+  margin-bottom: 1.5rem;
+}
+.body-content h4 {
+  padding-top: 1rem;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
 .thyme-button {
   height: 50%;
   margin: auto;
@@ -36,15 +46,6 @@ body {
   display:inline-block;
   margin-left: auto;
   margin-right: auto;
-}
-
-.body-content{
-  background-color: #fff;
-}
-.body-content h4 {
-  padding-top: 1rem;
-  font-weight: 600;
-  font-size: 1.5rem;
 }
 
 #brand-logo {
