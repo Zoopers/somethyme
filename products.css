@@ -38,3 +38,12 @@
 .download-link-icon{
   color: #f58220;
 }
+
+.gallery-image {
+  padding-top: 1rem;
+  position: relative;
+}
+
+.gallery {
+  padding-top: 2rem;
+}
