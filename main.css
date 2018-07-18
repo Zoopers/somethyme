@@ -3,6 +3,11 @@ body {
   /*background-color: #666;*/
 }
 
+.panel-footer.panel-custom {
+    background: red;
+    color: white;
+}
+
 .body-content{
   background-color: #fff;
   margin-bottom: 1.5rem;
